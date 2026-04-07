@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
+title_left    : "Shep"
+title_right   : "Scape" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://shepscape.github.io # site url
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Felix Rizky Lesmana"
 
 plugins:
   - jekyll-sitemap
