@@ -19,7 +19,7 @@ Secara sederhana, **Vibe Coding** adalah proses membangun perangkat lunak (*soft
 
 Di sini, peran kita berubah dari seorang **"pengetik kode"** menjadi seorang **"konduktor orkestra"**. Kita memberikan visi, dan AI yang mengeksekusi teknisnya.
 
-### **Contoh Nyata Vibe Coding**
+### **Contoh Penerapan Vibe Coding**
 
 Bayangkan kita ingin membuat aplikasi berbasis web untuk daftar belanja sederhana.
 
@@ -27,7 +27,8 @@ Bayangkan kita ingin membuat aplikasi berbasis web untuk daftar belanja sederhan
 * **Vibe Coding:** Kita membuka *code editor* berbasis AI dan memberikan perintah:
     > *"Buatkan aplikasi daftar belanja dengan desain minimalis. Pastikan ada tombol tambah dan hapus, serta otomatis tersimpan di browser."*
 
-AI kemudian akan menghasilkan seluruh kode tersebut dalam hitungan detik. Jika tampilannya kurang pas, kita tinggal bilang, *"Ubah sudut tombolnya menjadi lebih bulat (rounded) agar terlihat modern,"* dan sistem akan memperbaruinya seketika.
+AI kemudian akan menghasilkan seluruh kode tersebut dalam hitungan detik. Jika tampilannya kurang pas, kita tinggal memberikan prompt tambahan : > *"Ubah sudut tombolnya menjadi lebih bulat (rounded) agar terlihat modern,"* 
+dan sistem akan memperbaruinya seketika.
 
 ---
 
