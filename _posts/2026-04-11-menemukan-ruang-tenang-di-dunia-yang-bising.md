@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menemukan Ruang Tenang di Dunia yang Bising
+title: Menemukan Ruang Tenang Di Dunia Yang Bising
 description: "Bagaimana cara menjaga ketenangan pikiran di tengah era informasi yang luar biasa cepat?"
 comments: true
 keywords: "ketenangan pikiran, kesehatan mental, digital detox, filosofi stoikisme, fokus pada diri sendiri, pengembangan diri, mindfulness."
