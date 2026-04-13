@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memeluk Kegagalan Sebagai Navigasi Hidup
+title: Memeluk Kegagalan sebagai Navigasi Hidup
 description: "Mengubah cara pandang terhadap kegagalan."
 comments: true
 keywords: "belajar dari kegagalan, refleksi diri, bangkit dari keterpurukan, filosofi hidup, ketenangan pikiran, pengembangan diri, benang merah kehidupan."
